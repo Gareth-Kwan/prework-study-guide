@@ -4,9 +4,9 @@
 
 This pre-work study guide was created with the goal of preparing myself for future success in the upcoming bootcamp. It consolidates most of the key points I learned in the pre-work into one location, so I could easily refer back to them in the future. The purpose of this is to organize notes and lecture material so that I can increase my comprehension and memory of large amounts of information.
 
-## Installation
+## Deployed Webpage
 
-N/A
+[Pre-Work Study Guide](https://gareth-kwan.github.io/prework-study-guide/)
 
 ## Usage
 
